@@ -1,6 +1,6 @@
 # Tugas Besar 2 AI
 
-## Cara Menjalankan Program
+### Cara Menjalankan Program
 
 1. Buka terminal CLIPS
  
@@ -10,6 +10,6 @@
 
 4. `(run)`
 
-## Dikerjakan oleh: 
+### Dikerjakan oleh: 
 
 - 13520052 - Gregorius Moses
